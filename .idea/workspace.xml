@@ -14,12 +14,48 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="crawler4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#71#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawler6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="96" lean-forward="false" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="96" />
+              <folding>
+                <element signature="e#72#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>//img.ruliweb.com/img/2016/icon/ruliweb_text_icon_93_12.png</find>
       <find>젖지만 잘 싸웠다</find>
+      <find>(서울=연합뉴스) 이정훈 기자 = 25일 오후 서울 종로구 광화문광장에서 열린 '21차 범국민행동의 날' 촛불집회에서 참가자들이 세월호 분향소를 찾아 희생자들을 추모하고 있다. 2017.3.25</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -29,8 +65,9 @@
         <option value="$PROJECT_DIR$/crawler2.py" />
         <option value="$PROJECT_DIR$/sandback.html" />
         <option value="$PROJECT_DIR$/crawler4.py" />
-        <option value="$PROJECT_DIR$/crawler5.py" />
         <option value="$PROJECT_DIR$/crawler3.py" />
+        <option value="$PROJECT_DIR$/crawler5.py" />
+        <option value="$PROJECT_DIR$/crawler6.py" />
       </list>
     </option>
   </component>
@@ -76,7 +113,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
-  <component name="RunManager" selected="Python.crawler3">
+  <component name="RunManager" selected="Python.crawler6">
     <configuration default="false" name="crawler1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,23 +127,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="webcrawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="crawler2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="webcrawler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -141,6 +161,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="webcrawler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="crawler5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webcrawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="crawler6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webcrawler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -292,18 +346,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.crawler1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.crawler2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.crawler3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.crawler4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.crawler3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.crawler4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.crawler5" />
+      <item index="4" class="java.lang.String" itemvalue="Python.crawler6" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.crawler3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.crawler4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.crawler1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.crawler2" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.crawler6" />
+        <item index="1" class="java.lang.String" itemvalue="Python.crawler5" />
+        <item index="2" class="java.lang.String" itemvalue="Python.crawler3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.crawler4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.crawler1" />
       </list>
     </recent_temporary>
   </component>
@@ -311,8 +367,8 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1215" height="1000" extended-state="7" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17114094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -343,7 +399,7 @@
         <state relative-caret-position="252">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#55#68#0" expanded="true" />
+            <element signature="e#55#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -353,7 +409,7 @@
         <state relative-caret-position="270">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#27#36#0" expanded="true" />
+            <element signature="e#27#36#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -363,7 +419,7 @@
         <state relative-caret-position="216">
           <caret line="14" column="38" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="38" />
           <folding>
-            <element signature="e#95#104#0" expanded="true" />
+            <element signature="e#95#104#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -373,7 +429,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#57#66#0" expanded="true" />
+            <element signature="e#57#66#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -383,7 +439,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#57#66#0" expanded="true" />
+            <element signature="e#71#80#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -401,7 +457,7 @@
         <state relative-caret-position="216">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#55#68#0" expanded="true" />
+            <element signature="e#55#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -411,7 +467,7 @@
         <state relative-caret-position="252">
           <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <element signature="e#27#36#0" expanded="true" />
+            <element signature="e#27#36#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -421,7 +477,7 @@
         <state relative-caret-position="702">
           <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <element signature="e#95#104#0" expanded="true" />
+            <element signature="e#95#104#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -434,32 +490,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#57#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#57#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawler3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <element signature="e#95#104#0" expanded="true" />
+            <element signature="e#95#104#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -469,7 +505,7 @@
         <state relative-caret-position="288">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#27#36#0" expanded="true" />
+            <element signature="e#27#36#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -479,7 +515,35 @@
         <state relative-caret-position="270">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#55#68#0" expanded="true" />
+            <element signature="e#55#68#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#71#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="96" lean-forward="false" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="96" />
+          <folding>
+            <element signature="e#72#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
