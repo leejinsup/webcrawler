@@ -7,7 +7,7 @@ import re
 import urllib
 from bs4 import BeautifulSoup
 
-boardurl = "http://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=102&oid=001&aid=0009133401"
+boardurl = "http://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=001&aid=0009138651"
 
 html = urllib.urlopen(boardurl)
 soup = BeautifulSoup(html, "lxml")
